@@ -1,0 +1,16 @@
+{
+    "name": "zakar/passwordgenerator",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zakar\\PasswordGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zakary Ben El Gharib",
+            "email": "zakary34750@gmail.com"
+        }
+    ],
+    "require": {}
+}
