@@ -30,7 +30,7 @@ git clone https://github.com/majinfyrex/PasswordGenerator.git
 ```bash
 cd passwordgenerator
 ```
-3. Ouvrez le fichier index.php dans votre navigateur en utilisant un serveur local (par exemple, MAMP, XAMPP, ou en ligne de commande avec php -S localhost:8000).
+3. Ouvrez le fichier index.php dans votre navigateur en utilisant un serveur local (par exemple, MAMP, XAMPP, ou en ligne de commande avec ```php -S localhost:8000```).
 
 Utilisation:
 
